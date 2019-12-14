@@ -1,0 +1,25 @@
+﻿  ObjFile.cpp
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(98,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(109,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(120,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(143,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(144,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Octree.cpp
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(145,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(98,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(109,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(120,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(143,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(144,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(145,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(98,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(109,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(120,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\Linear_Algebra.h(143,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\Octree\OpenGL_API.h(78,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 744 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Octree.vcxproj -> C:\Users\ICARO\Dropbox\UFC\MESTRADO\2019-2\CKP8199_ModelagemGeometrica\MG_2019\x64\Release\Octree.exe
