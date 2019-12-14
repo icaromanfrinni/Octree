@@ -31,4 +31,11 @@ ___
 * Primitives  
   
 ![Primitives](primitives.png)
-
+___
+* Boolean operations
+  
+![Boolean](boolean.png)
+___
+* From OBJ File
+  
+![OBJ](obj.png)
