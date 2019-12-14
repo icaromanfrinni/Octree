@@ -22,7 +22,7 @@ f 1 2 3 4
 ___
 * Main window  
   
-![Main window](menu.png)
+![Main window](mainwindow.png)
 ___
 * Octree  
   
